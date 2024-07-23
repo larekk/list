@@ -1,6 +1,5 @@
 const listItems = document.querySelectorAll('.companyList__wrapper');
 const swiperSlide = document.querySelectorAll('.swiper-slide');
-const swiperWrapper = document.querySelector('.swiper-wrapper');
 const companyList = document.querySelector('.companyList');
 const listShowButton = companyList.querySelector('.button__show');
 const listCloseButton = companyList.querySelector('.button__close');
